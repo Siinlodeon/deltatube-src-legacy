@@ -1,4 +1,4 @@
-# DeltaTube
+# FiiTube
 A YouTube revival that had two name changes.
 ## Why this repository is archived
 The JarkTube/FalconTube code was really shitty and had flaws in it, so I'm rewriting it and discontinuing this codebase.
